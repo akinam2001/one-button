@@ -18,6 +18,8 @@ options = {
 	seed: 1,
 	isPlayingBgm: true,
 	isReplayEnabled: true,
+	isCapturing: true,
+	isCapturingGameCanvasOnly: true,
 	//   theme?: "simple" | "pixel" | "shape" | "shapeDark" | "crt" | "dark";
 	theme: "pixel",
 };
