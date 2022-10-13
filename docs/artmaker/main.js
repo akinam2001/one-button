@@ -1,7 +1,6 @@
 title = "Art Maker";
 
-description = `Press and Hold for Options
-Press C to capture canvas`;
+description = `Press and Hold for Options`;
 
 characters = [  
 `
